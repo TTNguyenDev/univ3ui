@@ -1,3 +1,4 @@
+import "./MetaMask.css";
 import { useContext } from "react";
 import { MetaMaskContext } from "../contexts/MetaMask";
 
